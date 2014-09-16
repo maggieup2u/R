@@ -1,5 +1,4 @@
 R
 =
 
-statistics studying using R
-i love coffee
+statistics case study by R
